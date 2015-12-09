@@ -8,7 +8,7 @@ using Coffee.Models;
 using coffee.ViewModels;
 using System.Data.Entity;
 using PagedList;
-
+//syncing
 
 namespace coffee.Controllers
 {
